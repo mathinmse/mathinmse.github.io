@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Mathematical Methods in Materials Engineering
 
-You can use the [editor on GitHub](https://github.com/mathinmse/mathinmse.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Course is currently being offered at the University of Canterbury in the Mechanical Engineering Department, Spring 2017-S2.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an undergraduate course that applies mathematical techniques to understand materials engineering topics such as materials structure, symmetry, diffusion, mechanics and physics of solids. The class uses examples from the materials science and engineering core courses to introduce mathematical concepts and materials-related problem solving skills. Topics include linear algebra, eigenvalues and eigenvectors, quadratic forms, tensor operations, symmetry operations, calculus of several variables, introduction to complex analysis, ordinary and partial differential equations, theory of distributions, and Fourier analysis, transformations, and calculus of variations.
 
-### Markdown
+## Course Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Course Title: Mathematical Methods in Materials Engineering 
+* Course Number: MTLE-4720/BMED-4720 (RPI) or ENME483 (UC)
+* Meeting times: Monday and Thursday 2:00 PM to 3:30 PM
+* Meeting location: E201 Computer Lab
+* Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI), E504 (UC)
+* Office hours: Monday through Wednesday 12 PM - 1 PM 
+* E-mail: lewisd2@rpi.edu or daniel.lewis@canterbury.ac.nz
+* Skype: dan\_lewis\_at\_rpi
 
-```markdown
-Syntax highlighted code block
+Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
 
-# Header 1
-## Header 2
-### Header 3
+Textbooks:  You will need a functional Python installation and know how to start the Jupyter notebook.  There are no required texts for this class.  See the web links below for additional resources.
 
-- Bulleted
-- List
+Python Crash Course: An all-in-one tutorial is found [here](https://github.com/rpmuller/PythonCrashCourse).
 
-1. Numbered
-2. List
+Scientific Computing with Python:  An excellent tutorial can be found [here](https://github.com/jrjohansson/scientific-python-lectures).
 
-**Bold** and _Italic_ and `Code` text
+Lecture Materials:  [Download the lecture materials here.](https://github.com/mathinmse/mathinmse.github.io)
 
-[Link](url) and ![Image](src)
-```
+## Attendance Policy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Students are expected to be in-class for all lectures. If you require an official excused absence you must go to the "Student Experience" office on the 4th floor of Academy Hall, x8022, se@rpi.edu (RPI).  Contact the instructor if you are at Canterbury and there is an concern with attendance.
 
-### Jekyll Themes
+## Student Learning Outcomes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathinmse/mathinmse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Students who satisfactorily complete this course will demonstrate:
 
-### Support or Contact
+* an ability to conceptualize, formulate and solve mathematical problems in materials science and engineering;
+* an ability to use the techniques, skills and modern engineering tools necessary for engineering practice including symbolic computation tools and numerical solvers.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Grading Criteria
+
+The homework grades will constitute 50% of the course grade.  A final project will constitute the other 50% of the course grade.
+
+## Course Assessment Measures
+
+There will be 10 homework assignments for this class due approximately weekly.
+
+## Hours in and out of class
+
+This is a three (3) credit course. While you will be in lecture for approximately three hours each week, you will spend an additional 2-4 hours each week performing homework assignments. You may work in groups to complete the problems set by the instructor.
+
+## Collaboration and Academic Integrity
+
+It is likely that you will wish to or, in some cases, need to work with other members of the class to complete assignments. All submitted work must be your original work and must clearly indicate with whom you have collaborated.
+
+See Rensselaer’s official policy statement and regulations on academic integrity. This policy clearly identifies activities that are "academically dishonest". All matters of academic integrity are to be brought to the instructor’s attention immediately. Any and all "academically dishonest" acts erode the relationship between the instructor and student and harm the educational process.
+
+Violation of this policy will result in failure of the course.
