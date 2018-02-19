@@ -1,18 +1,16 @@
 # Mathematical Methods in Materials Engineering
 
-The Course is currently being offered at the University of Canterbury in the Mechanical Engineering Department, Spring 2017-S2.
-
 This is an undergraduate course that applies mathematical techniques to understand materials engineering topics such as materials structure, symmetry, diffusion, mechanics and physics of solids. The class uses examples from the materials science and engineering core courses to introduce mathematical concepts and materials-related problem solving skills. Topics include linear algebra, eigenvalues and eigenvectors, quadratic forms, tensor operations, symmetry operations, calculus of several variables, introduction to complex analysis, ordinary and partial differential equations, theory of distributions, and Fourier analysis, transformations, and calculus of variations.
 
 ## Course Information
 
 * Course Title: Mathematical Methods in Materials Engineering 
 * Course Number: MTLE-4720/BMED-4720 (RPI) or ENME483 (UC)
-* Meeting times: Monday and Thursday 2:00 PM to 3:30 PM
-* Meeting location: E201 Computer Lab
+* Meeting times: TBD
+* Meeting location: TBD
 * Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI), E504 (UC)
 * Office hours: Monday through Wednesday 12 PM - 1 PM 
-* E-mail: lewisd2@rpi.edu or daniel.lewis@canterbury.ac.nz
+* E-mail: lewisd2@rpi.edu
 * Skype: dan\_lewis\_at\_rpi
 
 Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
