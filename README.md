@@ -1,17 +1,15 @@
-# Mathematical Methods in Materials Engineering
+# Applied Mathematical Methods in Materials Engineering
 
 This is an undergraduate course that applies mathematical techniques to understand materials engineering topics such as materials structure, symmetry, diffusion, mechanics and physics of solids. The class uses examples from the materials science and engineering core courses to introduce mathematical concepts and materials-related problem solving skills. Topics include linear algebra, eigenvalues and eigenvectors, quadratic forms, tensor operations, symmetry operations, calculus of several variables, introduction to complex analysis, ordinary and partial differential equations, theory of distributions, and Fourier analysis, transformations, and calculus of variations.
 
 ## Course Information
 
-* Course Title: Mathematical Methods in Materials Engineering 
+* Course Title: Applied Mathematical Methods in Materials Engineering 
 * Course Number: MTLE-4720/BMED-4720 (RPI) or ENME483 (UC)
-* Meeting times: TBD
-* Meeting location: TBD
-* Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI), E504 (UC)
-* Office hours: Monday through Wednesday 12 PM - 1 PM 
-* E-mail: lewisd2@rpi.edu
-* Skype: dan\_lewis\_at\_rpi
+* Meeting times: T/F 10:00 to 11:20
+* Meeting location: LOW 3116
+* Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI)
+* Office hours: Wednesday 12 PM - 1 PM
 
 Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
 
@@ -25,7 +23,7 @@ Lecture Materials:  [Download the lecture materials here.](https://github.com/ma
 
 ## Attendance Policy
 
-Students are expected to be in-class for all lectures. If you require an official excused absence you must go to the "Student Experience" office on the 4th floor of Academy Hall, x8022, se@rpi.edu (RPI).  Contact the instructor if you are at Canterbury and there is an concern with attendance.
+Students are expected to be in-class for all lectures. If you require an official excused absence you must go to the "Student Experience" office on the 4th floor of Academy Hall, x8022, se@rpi.edu.
 
 ## Student Learning Outcomes
 
