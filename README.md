@@ -4,12 +4,12 @@ This is an undergraduate course that applies mathematical techniques to understa
 
 ## Course Information
 
-* Course Title: Applied Mathematical Methods in Materials Engineering 
+* Course Title: Applied Mathematical Methods in Materials Engineering
 * Course Number: MTLE-4720/BMED-4720 (RPI) or ENME483 (UC)
 * Meeting times: T/F 10:00 to 11:20
 * Meeting location: LOW 3116
 * Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI)
-* Office hours: Wednesday 12 PM - 1 PM
+* Office hours: Wednesday 12 PM - 1 PM or by appointment
 
 Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
 
