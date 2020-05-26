@@ -5,15 +5,15 @@ This is an undergraduate course that applies mathematical techniques to understa
 ## Course Information
 
 * Course Title: Applied Mathematical Methods in Materials Engineering
-* Course Number: MTLE-4720/BMED-4720 (RPI) or ENME483 (UC)
-* Meeting times: T/F 10:00 to 11:20
-* Meeting location: LOW 3116
-* Instructor: Associate Professor Dan Lewis Office: MRC-110 (RPI)
-* Office hours: Wednesday 12 PM - 1 PM or by appointment
+* Course Number: MTLE-4720/BMED-4720 (RPI)
+* Meeting times: Monday/Thursday 1:30 to 3:35
+* Meeting location: Classes will start from the WebEx Teams Space
+* Instructor: Associate Professor Dan Lewis Office: http://renssealer.webex.com/meet/lewisd2
+* Office hours: will be arranged by appointment.  24/7 messaging available in the WebEx Teams Space
 
 Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
 
-Textbooks:  You will need a functional Python installation and know how to start the Jupyter notebook.  There are no required texts for this class.  See the web links below for additional resources.
+Textbooks:  You will need a functional Anaconda Python 3 installation and know how to start the Jupyter notebook from the Anaconda Navigator.  There are no required texts for this class.  See the web links below for additional resources.  There will be reading recommendations made within the provided lecture materials.
 
 Python Crash Course: An all-in-one tutorial is found [here](https://github.com/rpmuller/PythonCrashCourse).
 
