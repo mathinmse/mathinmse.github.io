@@ -9,7 +9,7 @@ This is an undergraduate course that applies mathematical techniques to understa
 * Meeting times: Monday/Thursday 1:30 to 3:35
 * Meeting location: Classes will start from the WebEx Teams Space
 * Instructor: Associate Professor Dan Lewis Office: http://renssealer.webex.com/meet/lewisd2
-* Office hours: will be arranged by appointment.  24/7 messaging available in the WebEx Teams Space
+* Office hours: We will arranged individual meetings by appointment.  24/7 messaging available in the WebEx Teams Space
 
 Prerequisites: A desire to improve one’s ability to solve mathematical problems in materials engineering.
 
@@ -38,7 +38,7 @@ The homework grades will constitute 50% of the course grade.  A final project wi
 
 ## Course Assessment Measures
 
-There will be 10 homework assignments for this class due approximately weekly.
+There will be 6 homework assignments for this class due approximately weekly.
 
 ## Hours in and out of class
 
